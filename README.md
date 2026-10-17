@@ -1,66 +1,58 @@
-# Hi 👋 I'm Siddharth Kumar  
-### Computer Science Student | Software Engineer | Full-Stack Developer | AI/ML Enthusiast
+# Siddharth Kumar
+### Software Engineer in the making. Builder by instinct. ⚡
 
-🎓 B.Tech Computer Science & Engineering student  
-🧠 Good foundation in Data Structures & Algorithms  
-💻 Passionate about building scalable, reliable, cloud-ready software systems
+> *Turning ideas into software that works in the real world.*
 
----
-
-## 🚀 What I Build
-
-- 🌐 Full-stack web applications designed for performance and maintainability
-- 🔌 Scalable backend services & RESTful APIs built to grow with demand
-- 🤖 AI & Machine Learning solutions focused on real-world, practical use cases
+I'm a Computer Science student passionate about **full-stack engineering, scalable backends, and practical AI**. I enjoy understanding how things work under the hood — then building something useful with that knowledge.
 
 ---
 
-## 💫 About Me
+### ⌘ &nbsp; WHAT I WORK WITH
 
-- 🔭 Currently working on full-stack and backend-focused projects  
-- 🌱 Learning AI & Machine Learning through hands-on experimentation  
-- 🧩 Improving problem-solving skills using Data Structures & Algorithms  
-- ⚙️ Curious about system design, clean architecture, and performance optimization  
+| Domain | Technologies |
+|:--|:--|
+| **Languages** | Java · Python · JavaScript · C · SQL |
+| **Frontend** | React · Redux · Tailwind CSS |
+| **Backend** | FastAPI · Django · Django REST Framework |
+| **Infrastructure** | AWS · Docker |
+| **Database & Tools** | MySQL · Git · GitHub |
 
----
+### ⚙️ &nbsp; CURRENTLY EXPLORING
 
-## 💻 Technical Skills
+- Designing reliable APIs and maintainable backend architectures
+- Building cloud-ready applications with Docker and AWS
+- Exploring AI/ML through practical projects
+- Sharpening problem-solving skills with DSA in Java
 
-### 🧠 Programming Languages
-- Java (DSA)  
-- Python  
-- C  
-- JavaScript  
-- SQL  
+### 🏁 &nbsp; BEYOND THE CODE
 
-### 🎨 Frontend
-- HTML, CSS  
-- React  
-- Redux, React Router, React Hook Form
-- Tailwind CSS  
-- Bootstrap  
-
-### ⚙️ Backend & APIs
-- Django  
-- Django REST Framework  
-- REST API development  
-
-### 🗄️ Database
-- MySQL  
-
-### ☁️ Tools & Platforms
-- AWS (application deployment)  
-- Git & GitHub  
-- VS Code  
+Hackathon finalist & runner-up · Lifelong learner · Curious engineer
 
 ---
 
-## 🏆 Highlights
-
-- 🧩 Strong analytical and problem-solving mindset  
-- 🏁 Hackathon finalist and runner-up  
-- 📚 Continuous learner with a builder’s mindset  
+```text
+THINK  →  BUILD  →  TEST  →  IMPROVE  →  REPEAT
+```
 
 ---
 
-✨ Building, learning, and improving — one project at a time.
+---
+
+<details>
+<summary> 🧠 <b>The Mind Behind the Code</b> &nbsp;·&nbsp; My engineering philosophy</summary>
+
+<br>
+
+> **Don't just make it work. Understand why it works.**
+
+I like exploring the layers beneath the surface — the trade-offs behind an architecture, the reasoning behind a design decision, and the details that make software reliable.
+
+Because writing code is one thing. **Engineering a solution is another.**
+
+</details>
+
+<div align="right">
+
+*Curiosity is the feature. Improvement is the process.* ⚡
+
+</div>
