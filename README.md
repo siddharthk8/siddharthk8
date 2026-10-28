@@ -14,7 +14,7 @@ I'm a Computer Science student passionate about **full-stack engineering, scalab
 | **Languages** | Java · Python · JavaScript · C · SQL |
 | **Frontend** | React · Redux · Tailwind CSS |
 | **Backend** | FastAPI · Django · Django REST Framework |
-| **Infrastructure** | AWS · Docker |
+| Infrastructure & CI/CD | AWS · Docker · GitHub Actions (CI/CD) |
 | **Database & Tools** | MySQL · Git · GitHub |
 
 ### ⚙️ &nbsp; CURRENTLY EXPLORING
